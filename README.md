@@ -67,30 +67,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gustavovictor46&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+s  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gustavovictor46&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314jt3cuwduz2ruta3idlcnsmmr4&cover_image=true&theme=novatorem&show_offline=true&background_color=090101&interchange=true&bar_color=10730c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314jt3cuwduz2ruta3idlcnsmmr4&redirect=true)
 
