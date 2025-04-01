@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://tenor.com/pt-BR/view/hello-there-gif-5677380953331354485" align="center" style="width: 100%" />
-</div>  
+
 
 ### <div align="center">I'm Gustavo Victor, a full-time developer in training👨‍💻 working remotely since 2025🚀</div>  
   
