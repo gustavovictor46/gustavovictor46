@@ -3,9 +3,9 @@
 
 - 🌱 O que faço? **Atualmente sou estudante de Desenvolvimentos de Sistemas na Escola Senai Valinhos**
 
-- 📫 Minhas redes sociais **https://www.instagram.com/ferreirag43/**
+- 📫 Minhas redes sociais: **https://www.instagram.com/ferreirag43/**
 
-- ⚡ Interesses **🎶 Sou multi-instrumentista, toco há 8 anos e atuo profissionalmente há 3 anos; 🎭 Sou também um ator aspirante há 7 anos; 🎬 No meu tempo livre assisto filmes de todos os tipos, meu gênero favorito de filme sendo drama; 📚 Leio os clássicos da literatura, desde Emily Brontë há Fiodór Dostoievski; 🎮 Jogo no computador com meus amigos.**
+- ⚡ Interesses: **🎶 Sou multi-instrumentista, toco há 8 anos e atuo profissionalmente há 3 anos; 🎭 Sou também um ator aspirante há 7 anos; 🎬 No meu tempo livre assisto filmes de todos os tipos, meu gênero favorito de filme sendo drama; 📚 Leio os clássicos da literatura, desde Emily Brontë há Fiodór Dostoievski; 🎮 Jogo no computador com meus amigos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
